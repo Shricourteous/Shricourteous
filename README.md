@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shri Balaji</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Student | Dev | Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shricourteous&label=Profile%20views&color=0e75b6&style=flat" alt="shribalaji1243" /> </p>
-
+<!-- <img src="https://cdn-icons-png.flaticon.com/512/3442/3442091.png" style="vertical-align:top;margin:50px;height:50px" /> -->
+<h3> Night Coder 🌃 💖 <img src="https://komarev.com/ghpvc/?username=Shricourteous&label=Profile%20views&color=0e75b6&style=flat" alt="shribalaji1243" /> </h3>
+</div>
+  
 - 🌱 I’m currently learning **NodeJs, ExpressJs and ReactJs**
 
 - 💬 Ask me about **Python, C, Java, Html and CSS**
